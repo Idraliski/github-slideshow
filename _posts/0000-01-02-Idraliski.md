@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: Blarg
+title: "Welcome to our second blarg!"
 ---
-Hello There!
-Use the left arrow to go back!
+Why Hello There!
+Use the left arrow to go back! only if you want
